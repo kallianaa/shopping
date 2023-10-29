@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Data
+comment1.params=dia\ mes\ ano
+comment1.target=Data(int,\ int,\ int)
+comment10.params=ano
+comment10.target=void\ setAno(int)
+comment11.params=
+comment11.target=boolean\ verificaAnoBissexto()
+comment12.params=
+comment12.target=java.lang.String\ toString()
+comment2.params=dia\ mes\ ano
+comment2.target=boolean\ dataValida(int,\ int,\ int)
+comment3.params=dia\ mes\ ano
+comment3.target=boolean\ verificaData(int,\ int,\ int)
+comment4.params=mes\ ano
+comment4.target=int\ diasMes(int,\ int)
+comment5.params=
+comment5.target=int\ getDia()
+comment6.params=dia
+comment6.target=void\ setDia(int)
+comment7.params=
+comment7.target=int\ getMes()
+comment8.params=mes
+comment8.target=void\ setMes(int)
+comment9.params=
+comment9.target=int\ getAno()
+numComments=13
